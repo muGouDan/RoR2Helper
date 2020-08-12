@@ -8,5 +8,6 @@ tiny tool to get detail info from the game without breaking the balance of the g
 ![PickUp](https://github.com/muGouDan/RoR2Helper/blob/master/OverViewImage/PickUp.jpg)
 ## Check items in tab
 ![Tab](https://github.com/muGouDan/RoR2Helper/blob/master/OverViewImage/Tab.jpg)
+## Unlock ALL Achievement
 ## How to:
 Check the tutorial in "readme_CN.txt(中文)" and "readme_EN.txt".
