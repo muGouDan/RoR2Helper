@@ -1,4 +1,4 @@
-All files needed for replacing, locates in "/Resource"
+All files needed for replacing, locate in "/Resource"
 1.Item info strengthening for EN: replace with the file of the same name
 	XXX\Steam\steamapps\common\Risk of Rain 2\Risk of Rain 2_Data\Language\en\Items.txt
 2.Character InfoSpy Window: replace with the file of the same name
