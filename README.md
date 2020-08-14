@@ -11,3 +11,13 @@ tiny tool to get detail info from the game without breaking the balance of the g
 ## Unlock ALL Achievement
 ## How to:
 Check the tutorial in "readme_CN.txt(中文)" and "readme_EN.txt".
+
+
+
+# Update History
+
+- before ver. 1.0.0.6
+  - First Submit
+- ver. 1.0.0.6
+  - no change
+  - still some unsolved tranlation lacking in CN
